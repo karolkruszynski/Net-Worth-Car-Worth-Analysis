@@ -1,3 +1,6 @@
+# LINK TO KAGGLE NOTEBOOK
+https://www.kaggle.com/code/karolkrusznyski/net-worth-car-worth-analysis
+
 # About Dataset
 The sales prediction dataset comprises historical data on sales transactions, including factors such as date, product type, store location, and sales revenue. Our analysis aims to uncover trends, seasonality, and other patterns within the data to develop predictive models for future sales. By leveraging statistical methods and machine learning algorithms, we seek to forecast sales accurately, helping businesses optimize inventory management, marketing strategies, and overall performance. This dataset provides valuable insights for businesses aiming to improve their sales forecasting capabilities and maximize profitability.
 
