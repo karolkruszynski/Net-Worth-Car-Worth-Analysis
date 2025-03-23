@@ -16,7 +16,7 @@ The sales prediction dataset comprises historical data on sales transactions, in
 * df['gender'] = df['gender'].map({1:'Male', 0:'Female'})
 * df['age'] = df['age'].astype(int)
 
-## Analysis
+## More Advanced Analysis
 ### How does age affect annual earnings?
 ### What is the relative credit card debt to car value based on annual income?
 ### Is there a correlation between net wealth and car value?
